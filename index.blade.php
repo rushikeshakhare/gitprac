@@ -21,6 +21,7 @@
     background:#37474f;
     padding:5%;
     color:white;
+    
 }
     </style>
 </head>
