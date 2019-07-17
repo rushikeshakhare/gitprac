@@ -33,7 +33,7 @@
 
 
        </p>
-       Hello folks fuck you bye 
+       Hello folks
    </div>
 </body>
 </html>
