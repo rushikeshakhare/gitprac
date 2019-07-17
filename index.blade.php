@@ -29,7 +29,7 @@
    <div class="fullpage">
        <h1>Helloworld</h1>
        <p>Welcome to this happy world</p>
-       
+       <p>Welcome to GlobalLogic</p>
    </div>
 </body>
 </html>
