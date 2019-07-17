@@ -31,8 +31,6 @@
        <p>Welcome to this happy world</p>
        <p>Welcome to GlobalLogic In Nagpur
        </p>
-
-       Hello folks bye helloworld THIS IS PUSH
    </div>
 </body>
 </html>
